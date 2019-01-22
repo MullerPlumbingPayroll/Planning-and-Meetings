@@ -18,13 +18,20 @@ Cron job - set hours to 0 and reset pay period
 
 Client Questions
   * When uploading csv file with jobs, Is it going to have the old jobs as well? Will it have the jobs such that the jobs correctly point to the old jobs?
-      * Insert and avoid duplicates? Put in without references?
+    * Old jobs should be saved for at least +1 year and will be reset on Jan 1st of each year
   * Is there is an entry for a user and that user is removed, how do we deal with that?
-    * Dealing with Node SQL
+    * As with old jobs, they should be kept at least +1 year
   * How long should we store the data? Will they want to go back and look at it?
+    * See above
   * Dev account for Firebase
+    * Will create @Tanner
   * Enter how long they worked or when they worked (start/stop times)?
+    * When they worked
+      * Start/Stop button
+      * Additional capability to enter times if forgotten
+    * Add location caching (expect location services available)
   * Do they own their own domain? Probably have to buy it
   * If there is a call in the middle of the night on the day that the time period switches over, which pay period does it go into?
+    * Wednesday at 0:00am is the beginning of the pay period. Should be split at that time to each pay period
 
   
