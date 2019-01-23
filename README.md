@@ -34,4 +34,12 @@ Client Questions
   * If there is a call in the middle of the night on the day that the time period switches over, which pay period does it go into?
     * Wednesday at 0:00am is the beginning of the pay period. Should be split at that time to each pay period
 
+## Stand Up Meeting: 1/22/2019
   
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | Started Lynda course on React. | Finish Lynda course on Reacgt. | 
+| Brian | Improved functionality when adding times. | Display jobs according to type (construction, service or other). |
+| Diego | Read up on Hapi. | Connect API and Firebase and continue learning... |
+| Tanner | Setup Firebase and Muller dev account. |  Define database models. |
+
