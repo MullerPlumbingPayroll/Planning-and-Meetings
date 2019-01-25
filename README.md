@@ -43,3 +43,14 @@ Client Questions
 | Diego | Read up on Hapi. | Connect API and Firebase and continue learning... |
 | Tanner | Setup Firebase and Muller dev account. |  Define database models. |
 
+## Stand Up Meeting: 1/24/2019
+  
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | Learned js. | Learn React and work on the proposal. | 
+| Brian | Welcome page, button to add a new time entry. Changed table view cell size. | ERD and more UI. |
+| Diego | Read up more on Hapi and firebase. | Work on connecting db. |
+| Tanner | Develped models, initialized firebase. |  Work on models. |
+
+
+
