@@ -49,7 +49,7 @@ Client Questions
 | ---- | ------------- |:-------------:| 
 | Olivia | Learned js. | Learn React and work on the proposal. | 
 | Brian | Welcome page, button to add a new time entry. Changed table view cell size. | ERD and more UI. |
-| Diego | Read up more on Hapi and firebase. | Work on connecting db. |
+| Diego | Read up more on Hapi and firebase. | Work on connecting db with Cloud Firebase. |
 | Tanner | Develped models, initialized firebase. |  Work on models. |
 
 
