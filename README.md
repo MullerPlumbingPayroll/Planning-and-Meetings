@@ -52,5 +52,14 @@ Client Questions
 | Diego | Read up more on Hapi and firebase. | Work on connecting db with Cloud Firebase. |
 | Tanner | Develped models, initialized firebase. |  Work on models. |
 
+## Stand Up Meeting: 1/28/2019
+  
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | Learned React kind of. Worked on project proposal. | Planning out website. | 
+| Brian | Finished ER diagram. Worked on custom talbe view cells. | Finalize app functionality(populating cost code field and validation). |
+| Diego | Read up more on firebase. | Create the collections . |
+| Tanner | Configured app to work with ES6. |  . |
+
 
 
