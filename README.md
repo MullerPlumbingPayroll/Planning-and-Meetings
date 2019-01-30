@@ -61,5 +61,13 @@ Client Questions
 | Diego | Read up more on firebase. | Create the collections . |
 | Tanner | Configured app to work with ES6. |  . |
 
+## Stand Up Meeting: 1/30/2019
+  
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | Created layout for the admin website. Finished editing project proposal. | Write some code for the admin website. | 
+| Brian | Added edit functionality for time entries. | Add ability to delete a time entry and start testing. Edit project proposal.|
+| Diego | API and db connected. | Set up basic route to display users. |
+| Tanner | Mostly resting. Testing is working. |  Keep working on tests. |
 
 
