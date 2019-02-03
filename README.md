@@ -70,4 +70,27 @@ Client Questions
 | Diego | API and db connected. | Set up basic route to display users. |
 | Tanner | Mostly resting. Testing is working. |  Keep working on tests. |
 
+## Retro 1
+
+What did we accomplish?
+  * App - Basic views and CRUD operations for time entries
+  * Website - Learned and preliminary modifications for website
+  * APIs - Setting up repo, write/read from database
+  
+What did we do well?
+  * Communication
+  * Stayed on track
+ 
+What did we do poorly?
+  * Testing
+
+## Sprint 1 Planning
+Client Meeting: Thursdays 4:00pm (Feb 7th, 21st, Mar 7th, Mar 21st, Apr 4th, Apr 18th, May 2nd)
+
+App - Research and Learning to connect to APIs and testing, few UI improvements
+APIs - Implementing signon, routing
+Website - Basic pages and templates, Learning
+
+Client Feeback
+
 
