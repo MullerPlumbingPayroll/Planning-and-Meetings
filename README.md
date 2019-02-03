@@ -88,6 +88,7 @@ What did we do poorly?
 Client Meeting: Thursdays 4:00pm (Feb 7th, 21st, Mar 7th, Mar 21st, Apr 4th, Apr 18th, May 2nd)
 
 App - Research and Learning to connect to APIs and testing, few UI improvements
+
 APIs - Implementing signon, routing
 Website - Basic pages and templates, Learning
 
