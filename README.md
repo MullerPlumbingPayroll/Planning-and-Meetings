@@ -100,7 +100,7 @@ Client Feeback
 | Name | Yesterday     | Today         | 
 | ---- | ------------- |:-------------:| 
 | Olivia | Nothing, fun weekend. | Play around with React. Grading PLC hw. | 
-| Brian | Added date headers to separate time entries. | Learning. Figure out how data is stored on the phone. |
+| Brian | Added date headers to separate time entries. | Learning. Figure out dependency injection with Xamarin. |
 | Diego | Set up route to add and return cost-codes. | Validate routes with Joi. |
 | Tanner | Implemented testing and example test. Updated models. | Put in sign on. Move over to REACT. |
    
