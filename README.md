@@ -95,4 +95,24 @@ Website - Basic pages and templates, Learning
 
 Client Feeback
 
+## Stand Up Meeting: 2/4/2019
+  
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | . | . | 
+| Brian | . | . |
+| Diego | Set up route to add and display cost-codes. | Validate routes with Joi. |
+| Tanner | . | . |
+   
+           |   |
+      / | . | | . | \
+     /  /|  | |  |\  \
+      /   | | | |  \ 
+          -------
+         |/     \|
+         |   /\  |
+         |  | |  |
+         ---   ---
+        |___| |___| 
+
 
