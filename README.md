@@ -101,7 +101,7 @@ Client Feeback
 | ---- | ------------- |:-------------:| 
 | Olivia | . | . | 
 | Brian | . | . |
-| Diego | Set up route to add and display cost-codes. | Validate routes with Joi. |
+| Diego | Set up route to add and return cost-codes. | Validate routes with Joi. |
 | Tanner | . | . |
    
            |   |
