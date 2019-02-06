@@ -119,7 +119,7 @@ Client Feeback
   
 | Name | Yesterday     | Today         | 
 | ---- | ------------- |:-------------:| 
-| Olivia | . | . | 
-| Brian | . | . |
+| Olivia | Figured out how to make a menu. Several options. | Help Tanner with basic page and continue learning. | 
+| Brian | Added swipe gestures when choosing job type. UI to let users know if they're over 8 hrs on a work day. | Focus on testing. |
 | Diego | Not much, looked up errors with BOOM. | Validate routes with Joi. |
 | Tanner | Modified Admin(Front end) project structure. | Build a basic REACT page. |
