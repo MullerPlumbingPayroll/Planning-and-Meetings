@@ -114,3 +114,12 @@ Client Feeback
          |  | |  |
          ---   ---
         |___| |___| 
+
+## Stand Up Meeting: 2/6/2019
+  
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | . | . | 
+| Brian | . | . |
+| Diego | Not much, looked up errors with BOOM. | Validate routes with Joi. |
+| Tanner | Modified Admin(Front end) project structure. | Build a basic REACT page. |
