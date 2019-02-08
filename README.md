@@ -123,3 +123,12 @@ Client Feeback
 | Brian | Added swipe gestures when choosing job type. UI to let users know if they're over 8 hrs on a work day. | Focus on testing. |
 | Diego | Not much, looked up errors with BOOM. | Validate routes with Joi. |
 | Tanner | Modified Admin(Front end) project structure. | Build a basic REACT page. |
+
+## Stand Up Meeting: 2/8/2019
+  
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia |  |  | 
+| Brian | Worked on PL. | Testing. |
+| Diego | Not much. | Focus on testing. |
+| Tanner | Created side bar on admin front end. | Explore usfuleness of REACT bootstrap. Fix Travis. |
