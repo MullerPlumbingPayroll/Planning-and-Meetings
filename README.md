@@ -132,3 +132,12 @@ Client Feeback
 | Brian | Worked on PL. | Testing. |
 | Diego | Not much. | Focus on testing. |
 | Tanner | Created side bar on admin front end. | Explore usfuleness of REACT bootstrap. Fix Travis. |
+
+## Stand Up Meeting: 2/11/2019
+  
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | Nothing | Learn Prime React | 
+| Brian | UI testing for app | Continue testing; work on accessing user location |
+| Diego |  | |
+| Tanner | Decided which UI framework to use - Prime React | Add Prime React to project |
