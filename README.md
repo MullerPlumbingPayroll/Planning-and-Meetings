@@ -141,3 +141,21 @@ Client Feeback
 | Brian | UI testing for app | Continue testing; work on accessing user location |
 | Diego |  | |
 | Tanner | Decided which UI framework to use - Prime React | Add Prime React to project |
+
+## Stand Up Meeting: 2/13/2019
+
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | Played around with Primefaces. | Learn where things go from Tanner. | 
+| Brian | App successfully gathers user's location and adds to time entry. Continued UI testing. | Have app comunicate with API. |
+| Diego |  | Have |
+| Tanner | Installed sass on front end, aped primefaces' styles. | Helping Olivia. Deploy api. |
+
+# Post Scrum
+## Meeting with instructors
+* Ask what is needed for presentation.
+## In class presentation.
+* What do we need?
+## Beta
+* Ready for beta testing after spring break.
+ 
