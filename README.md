@@ -153,7 +153,7 @@ Client Feeback
 
 # Post Scrum
 * Meeting with instructors
-** Ask what is needed for presentation.
+  ** Ask what is needed for presentation.
 ## In class presentation.
 * What do we need?
 ## Beta
