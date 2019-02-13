@@ -152,8 +152,8 @@ Client Feeback
 | Tanner | Installed sass on front end, aped primefaces' styles. | Helping Olivia. Deploy api. |
 
 # Post Scrum
-## Meeting with instructors
-* Ask what is needed for presentation.
+* Meeting with instructors
+** Ask what is needed for presentation.
 ## In class presentation.
 * What do we need?
 ## Beta
