@@ -159,3 +159,11 @@ Ask what is needed for presentation.
 ### Beta
 * Ready for beta testing after spring break.
  
+## Stand Up Meeting: 2/15/2019
+
+| Name | Yesterday     | Today         | 
+| ---- | ------------- |:-------------:| 
+| Olivia | Created download time sheets basic page. | Make page look prettier. | 
+| Brian | Study process of making UI changes per Trip's request. | Keep working on UI. |
+| Diego | Got Sinon testing for retreiving codes. | POST testing. |
+| Tanner | Got API deployed. | Clean up files. There are some unecessary hosting files. |
